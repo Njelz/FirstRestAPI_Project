@@ -4,9 +4,17 @@ Project Overview
 
 This project is a REST API backend application created using Spring Initializr in IntelliJ. It allows users to perform full CRUD operations for managing products, utilising an H2 In-Memory Database for data persistence and Spring Data JPA for database interaction.
 
-Technologies Used
+Technologies Used:
 
-Java 17, Spring Web, H2 Database, Spring Data JPA, Spring Boot DevTools, Postman and Swagger
+•Java 17: The main programming language
+•Spring Boot DevTools: To set up the application and REST controllers
+•Spring Data JPA: To handle database operations without writing complex SQL
+•Spring Web: Used to handle HTTP requests
+•H2 Database: An in-memory database used for testing and development
+•Maven: Used for dependency management and building the project
+•Postman & Swagger: To test all the API endpoints and verify the responses.
+
+Project Structure:
 
 
 Task 2G
